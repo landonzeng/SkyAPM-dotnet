@@ -4,7 +4,7 @@
     <PropertyGroup>
         <TargetFrameworks>netcoreapp3.1;net5.0;net6.0;net7.0</TargetFrameworks>
         <AssemblyName>$(PackagePrefix).Diagnostics.FreeSql</AssemblyName>
-        <AssemblyTitle>$(PackagePrefix).Diagnostics.SmartSql</AssemblyTitle>
+        <AssemblyTitle>$(PackagePrefix).Diagnostics.FreeSql</AssemblyTitle>
         <PackageId>$(PackagePrefix).Diagnostics.FreeSql</PackageId>
         <PackageTags>SkyWalking;APM;Diagnostics;FreeSql</PackageTags>
         <Description>SkyApm.Diagnostics.FreeSql notifies of FreeSql requests.</Description>
